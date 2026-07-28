@@ -36,6 +36,10 @@ Contrairement à une méthode 'end-to-end' souvent trop lourde, j’ai séparé 
 
 <img width="1261" height="1364" alt="diagram-export-20-12-2025-12_45_52" src="https://github.com/user-attachments/assets/ca8ea7d4-4550-460c-906a-15632be4201f" />
 
+## 📸 Explication détaillé
+
+> [https://youtu.be/tKYpxesgLIU](https://youtu.be/VuLjZuhNcho?si=-xPEZ3COH0QGKKVa)
+
 ## 📦 Installation
 ```bash
 # Cloner le dépôt
