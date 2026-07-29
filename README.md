@@ -1,4 +1,6 @@
 #  🚀 Prédiction CTR Multimodale sur MicroLens-1M 
+<img width="800" height="400" alt="ctr" src="https://github.com/user-attachments/assets/bc454778-a3fe-4029-8454-3b196c4d46e6" />
+
 ## 📌 Aperçu du Projet
 
 Ce dépôt contient la solution pour la **Compétition de Prédiction du Taux de Clics Multimodaux (CTR)** basée sur le jeu de données 
