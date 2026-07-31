@@ -1,5 +1,5 @@
 #  🚀 Prédiction CTR Multimodale sur MicroLens-1M 
-<img width="800" height="400" alt="ctr" src="https://github.com/user-attachments/assets/bc454778-a3fe-4029-8454-3b196c4d46e6" />
+<img width="400" height="400" alt="ctr" src="https://github.com/user-attachments/assets/bc454778-a3fe-4029-8454-3b196c4d46e6" />
 
 ## 📌 Aperçu du Projet
 
@@ -40,7 +40,7 @@ Contrairement à une méthode 'end-to-end' souvent trop lourde, j’ai séparé 
 
 ## 📸 Explication détaillé
 
-> [https://youtu.be/tKYpxesgLIU](https://youtu.be/VuLjZuhNcho?si=-xPEZ3COH0QGKKVa)
+> 🎥 **[Voir la vidéo de l'explication sur YouTube](https://youtu.be/VuLjZuhNcho?si=-xPEZ3COH0QGKKVa)**
 
 ## 📦 Installation
 ```bash
