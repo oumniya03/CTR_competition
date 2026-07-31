@@ -1,5 +1,5 @@
 #  🚀 Prédiction CTR Multimodale sur MicroLens-1M 
-<img width="600" height="400" alt="ctr" src="https://github.com/user-attachments/assets/bc454778-a3fe-4029-8454-3b196c4d46e6" />
+<img width="800" height="400" alt="ctr" src="https://github.com/user-attachments/assets/bc454778-a3fe-4029-8454-3b196c4d46e6" />
 
 ## 📌 Aperçu du Projet
 
